@@ -1,9 +1,8 @@
 # Volume Calculator App
  calculate volume of cube, sphere and pyramid
-
+ 
  1. Home screen:
- <img src="![image](https://github.com/user-attachments/assets/a5d00841-dd07-46d9-95f9-7a016536057b)
-" height="300"/>
+ <img src="![image](https://github.com/user-attachments/assets/a5d00841-dd07-46d9-95f9-7a016536057b)" height="300" width="200"/>
  2. Shape Selection Screen:
  On this screen, users can select which shape's volume they want to calculate.
  ![image](https://github.com/user-attachments/assets/b4615295-0456-4f58-bbf9-90db1299bdc9)
