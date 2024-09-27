@@ -2,8 +2,7 @@
  calculate volume of cube, sphere and pyramid
  
  1. Home screen:
-    ![Alt text](![image](https://github.com/user-attachments/assets/5bffc5a6-6881-4045-9679-cf4f4ae9caa6)
-)
+   ![image](https://github.com/user-attachments/assets/377d938a-0994-40fe-882a-77ae8cbfa01a)
 
  3. Shape Selection Screen:
  On this screen, users can select which shape's volume they want to calculate.
